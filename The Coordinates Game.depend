@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1544953843 source:d:\programming essentials\my programs\the coordinates game\main.cpp
+	"Game.h"
+
+1544960183 d:\programming essentials\my programs\the coordinates game\coordinate.h
+	<math.h>
+
+1544960237 source:d:\programming essentials\my programs\the coordinates game\coordinate.cpp
+	"Coordinate.h"
+
+1544962362 source:d:\programming essentials\my programs\the coordinates game\player.cpp
+	"Player.h"
+
+1544962335 d:\programming essentials\my programs\the coordinates game\player.h
+	<string>
+	"Coordinate.h"
+
+1544965830 source:d:\programming essentials\my programs\the coordinates game\game.cpp
+	"Game.h"
+
+1544965484 d:\programming essentials\my programs\the coordinates game\game.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	"Coordinate.h"
+	"Player.h"
+
